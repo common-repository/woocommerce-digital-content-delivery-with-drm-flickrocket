@@ -1,0 +1,778 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2020-02-18 08:53+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Flickrocket <info@flickrocket.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/class.Flickrocket.php:141
+#, fuzzy
+#| msgid ""
+#| "The plugin \"WooCommerce Digital Content Delivery (incl. DRM) - "
+#| "FlickRocket\" encountered a credential problem. Please check your <a href="
+#| "\"/wp-admin/admin.php?page=wc-settings&tab=flickrocket\">login data</a>."
+msgid ""
+"The plugin \"WooCommerce Digital Content Delivery (incl. DRM) - FlickRocket"
+"\" encountered a potential credential problem. Please check your <a href=\"/"
+"wp-admin/admin.php?page=wc-settings&tab=flickrocket\">login data</a>."
+msgstr ""
+"Im Plugin \"WooCommerce Digital Content Delivery (incl. DRM) - FlickRocket\" "
+"liegt ein Autorisierungsproblem vor. Bitt prüfen Sie Ihre  <a href=\"/wp-"
+"admin/admin.php?page=wc-settings&tab=flickrocket\">Logindaten</a>."
+
+#: includes/class.Flickrocket.php:155
+#, fuzzy
+#| msgid ""
+#| "The plugin \"WooCommerce Digital Content Delivery (incl. DRM) - "
+#| "FlickRocket\" encountered a credential problem. Please check your <a href="
+#| "\"/wp-admin/admin.php?page=wc-settings&tab=flickrocket\">login data</a>."
+msgid ""
+"WooCommerce Digital Content Delivery (incl. DRM) - FlickRocket: <a href=\"/"
+"wp-admin/admin.php?page=wc-settings&tab=flickrocket\"> Login required</a>"
+msgstr ""
+"Im Plugin \"WooCommerce Digital Content Delivery (incl. DRM) - FlickRocket\" "
+"liegt ein Autorisierungsproblem vor. Bitt prüfen Sie Ihre  <a href=\"/wp-"
+"admin/admin.php?page=wc-settings&tab=flickrocket\">Logindaten</a>."
+
+#: includes/class.FlickrocketAccessGroups.php:83
+msgid "My Content"
+msgstr "Meine Inhalte"
+
+#: includes/class.FlickrocketAccessGroups.php:145
+msgid "Content Access Groups"
+msgstr "Zugangsgruppen für Inhalte"
+
+#: includes/class.FlickrocketAccessGroups.php:149
+msgid "Assigned access groups"
+msgstr "Zugewiesene Zugangsgruppen"
+
+#: includes/class.FlickrocketAccessGroups.php:155
+msgid "Group to assign"
+msgstr "Zugangsgruppen"
+
+#: includes/class.FlickrocketAccessGroups.php:158
+msgid "Assign"
+msgstr "Zuweisen"
+
+#: includes/class.FlickrocketAccessGroups.php:162
+msgid "Notify user"
+msgstr "User benachrichtigen"
+
+#: includes/class.FlickrocketAccessGroups.php:165
+msgid "Send content access email"
+msgstr "E-Mail für den Zugang versenden"
+
+#: includes/class.FlickrocketAccessGroups.php:168
+msgid "-Assign an access group first-"
+msgstr "-Es muss erst eine Zugangsgruppe zugewiesen werden-"
+
+#: includes/class.FlickrocketAccessGroups.php:226
+#, fuzzy
+#| msgid "Your existing player password"
+msgid "&lt;your existing player password&gt;"
+msgstr "Ihr vorhandenes Player Passwort"
+
+#: includes/class.FlickrocketSettings.php:16
+#: includes/class.FlickrocketWoocommerce.php:871
+msgid "FlickRocket"
+msgstr ""
+
+#: includes/class.FlickrocketSettings.php:38
+msgid "Select Theme"
+msgstr "Theme auswählen"
+
+#: includes/class.FlickrocketSettings.php:55
+msgid ""
+"Login to your Flickrocket account. If you don't have a FlickRocket account "
+"yet, you can sign up to a free accont."
+msgstr ""
+"Melden Sie sich mit Ihrem Flickrocket Konto an. Wenn Sie kein Flickrocket "
+"Konto haben, können Sie sich für einen kostenlosen Zugang anmelden."
+
+#: includes/class.FlickrocketSettings.php:57
+msgid "Login"
+msgstr ""
+
+#: includes/class.FlickrocketSettings.php:67
+msgid "Flickrocket Login"
+msgstr ""
+
+#: includes/class.FlickrocketSettings.php:67
+msgid ""
+"Login to your Flickrocket account. If you don't have a FlickRocket account "
+"yet, you can sign up to a free account."
+msgstr ""
+"Melden Sie sich mit Ihrem Flickrocket Konto an. Wenn Sie kein Flickrocket "
+"Konto haben, können Sie sich für einen kostenlosen Zugang anmelden."
+
+#: includes/class.FlickrocketSettings.php:71
+msgid "Change Login"
+msgstr "Login ändern"
+
+#: includes/class.FlickrocketSettings.php:74
+msgid "Flickrocket Domain"
+msgstr ""
+
+#: includes/class.FlickrocketSettings.php:76
+msgid ""
+"Select the domain to use for your WooCommerce shop. This defines the design "
+"of the player section displayed after an order or when the customer logs in "
+"to \"My Account\"."
+msgstr ""
+"Wählen Sie die Domain für die Flickrocket Komponenten im WooCommerce Shop. "
+"Damit legen Sie das Design der Player Komponenten nach einer Bestellung oder "
+"nach em Login zu \"Mein Konto\" fest."
+
+#: includes/class.FlickrocketSettings.php:77
+msgid ""
+"Your theme(s) appear to be for stand alone Flickrocket shops. To get started "
+"with WooCommerce, best use the <a target=\"_blank\" href=\"https://themes."
+"flickrocket.com/3rd-Party-Shop-Plugin/p/48077\">3rd Party Plugins</a> theme "
+"from the <a target=\"_blank\" href=\"https://themes.flickrocket.com"
+"\">Flickrocket Theme Store</a>."
+msgstr ""
+"Die vorhandenen Themes scheinen nur für echte Flickrocket Shops geeignet zu "
+"sein. Für WooCommerce sollte das <a target=\"_blank\" href=\"https://themes."
+"flickrocket.com/3rd-Party-Shop-Plugin/p/48077\">3rd Party Plugin</a> Theme "
+"aus dem <a target=\"_blank\" href=\"https://themes.flickrocket.com"
+"\">Flickrocket Theme Store</a> genutzt werden."
+
+#: includes/class.FlickrocketSettings.php:81
+msgid "Domain"
+msgstr ""
+
+#: includes/class.FlickrocketSettings.php:82
+msgid "Themes are managed in FlickRocket under \"Shop -> Domains/Themes\""
+msgstr ""
+"Themes werden im Flickrocket Admin Interface unter \"Shop-> Domains/Themes\" "
+"verwaltet."
+
+#: includes/class.FlickrocketSettings.php:93
+msgid "Product Sync Settings"
+msgstr "Product Sync Einstellungen"
+
+#: includes/class.FlickrocketSettings.php:94
+msgid "Sync products from Flickrocket to WooCommerce when you upload."
+msgstr ""
+"Produkte bei Upload in Flickrocket automatisch nach WooCommerce "
+"synchonisieren."
+
+#: includes/class.FlickrocketSettings.php:97
+msgid "Ongoing Sync"
+msgstr "Automatischer Sync"
+
+#: includes/class.FlickrocketSettings.php:98
+msgid "Automatically create products in WooCommerce as they become available"
+msgstr "Neue Produkte automatisch in WooCommerce anlegen"
+
+#: includes/class.FlickrocketSettings.php:105
+msgid "Auto Activate"
+msgstr "Automatisch aktivieren"
+
+#: includes/class.FlickrocketSettings.php:106
+msgid "Automatically activate created products"
+msgstr "Neu angelegte Produkte automatisch aktivieren"
+
+#: includes/class.FlickrocketSettings.php:114
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: includes/class.FlickrocketSettings.php:115
+msgid "General settings to manage the digital content in your shop."
+msgstr "Allgemeine Einstellungen für digitale Inhalte."
+
+#: includes/class.FlickrocketSettings.php:118
+msgid "Show Previews"
+msgstr "Previews anzeigen"
+
+#: includes/class.FlickrocketSettings.php:119
+msgid "Display preview button for content preview (if available)"
+msgstr "Preview Button für digital Inhalte anzeigen (wenn Preview vorhanden)"
+
+#: includes/class.FlickrocketSettings.php:126
+msgid "Extend order emails"
+msgstr "Emails zu der Bestellung erweitern"
+
+#: includes/class.FlickrocketSettings.php:127
+msgid ""
+"Adds information on how to access ordered digital content to sales emails"
+msgstr ""
+"Fügt den E-Mails zum Verkauf Informationen über den Zugang zu den erworbenen "
+"Inhalten hinzu"
+
+#: includes/class.FlickrocketSettings.php:134
+msgid "Admin email"
+msgstr "Admin E-Mail"
+
+#: includes/class.FlickrocketSettings.php:135
+msgid "Email address for important notifications such as process errors"
+msgstr ""
+"E-Mail Adresse für wichtige Benachrichtigungen (z.B. Fehler bei Verarbeitung "
+"von Käufen)"
+
+#: includes/class.FlickrocketSettings.php:143
+msgid "Role/Content Access Group Settings"
+msgstr "Rollen/Zugangsgruppen für Inhalte"
+
+#: includes/class.FlickrocketSettings.php:144
+msgid ""
+"Associate Wordpress roles with Flickrocket Content Access Groups (optional)."
+msgstr ""
+"Ermöglicht die Zuweisung von Zugangsgruppen zu Inhalten für ausgewählte "
+"Wordpress Rollen"
+
+#: includes/class.FlickrocketSettings.php:154
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: includes/class.FlickrocketSettings.php:163
+msgid "Error"
+msgstr "Fehler"
+
+#: includes/class.FlickrocketSettings.php:163
+#, php-format
+msgid ""
+"Error initializing (%s): One reason might be that php-soap is not installed/"
+"active?"
+msgstr ""
+"Fehler bei der Initialisierung (%s). Ein möglicher Fehler ist das Fehlen des "
+"php-soap Moduls?"
+
+#: includes/class.FlickrocketSettings.php:198
+msgid "Current plan: GOLD"
+msgstr "Aktuelles Konto: GOLD"
+
+#: includes/class.FlickrocketSettings.php:199
+msgid "Current plan: SILVER"
+msgstr "Aktuelles Konto: SILVER"
+
+#: includes/class.FlickrocketSettings.php:200
+msgid "Current plan: BASIC"
+msgstr "Aktuelles Konto: BASIC"
+
+#: includes/class.FlickrocketWoocommerce.php:127
+msgid ""
+"To access the content, the codes below need to be redeemed on the web site "
+"(for iOS devices) or in the players you can \n"
+"access from the \"My Account\" section of the URL below:"
+msgstr ""
+"Für den Zugriff auf Inhalte müssen die Codes auf der Webseite (für iOS "
+"Geräte) oder im Player eingelöst werden. Nutzen Sie dafür die \"Mein Konto\" "
+"Funktion von der URL unten:"
+
+#: includes/class.FlickrocketWoocommerce.php:130
+msgid ""
+"To manage the content, you can use the following credentials to log in to "
+"the content section:"
+msgstr "Zum Verwalten der Inhalte nutzen Sie die folgenden Logindaten:"
+
+#: includes/class.FlickrocketWoocommerce.php:132
+#: includes/class.FlickrocketWoocommerce.php:169
+#: templates/emails/group-access-notification.php:36
+#: templates/emails/plain/group-access-notication.php:46
+msgid "Email: "
+msgstr "E-Mail: "
+
+#: includes/class.FlickrocketWoocommerce.php:133
+#: includes/class.FlickrocketWoocommerce.php:170
+#: templates/emails/group-access-notification.php:37
+#: templates/emails/plain/group-access-notication.php:47
+msgid "Password: "
+msgstr "Passwort: "
+
+#: includes/class.FlickrocketWoocommerce.php:133
+#: includes/class.FlickrocketWoocommerce.php:170
+#: includes/class.FlickrocketWoocommerce.php:949
+msgid "Your existing player password"
+msgstr "Ihr vorhandenes Player Passwort"
+
+#: includes/class.FlickrocketWoocommerce.php:137
+msgid ""
+"To reset your password you can use the \"Forgot password\" option. If you "
+"changed the email \n"
+"used for the player, the data above might not be up-to-date."
+msgstr ""
+"Das Passwort kann mit der \"Passwort vergessen\" Option zurückgesetzt "
+"werden. Wenn die E-Mail \n"
+"im Player geändert wurde sind die Angaben oben evtl. nicht mehr aktuell."
+
+#: includes/class.FlickrocketWoocommerce.php:142
+msgid "Redemption codes:"
+msgstr "Freischaltcodes:"
+
+#: includes/class.FlickrocketWoocommerce.php:144
+msgid "Product Name"
+msgstr "Produktname"
+
+#: includes/class.FlickrocketWoocommerce.php:145
+msgid "Quantity"
+msgstr "Anzahl"
+
+#: includes/class.FlickrocketWoocommerce.php:146
+msgid "Redemption Code"
+msgstr "Freischaltcode"
+
+#: includes/class.FlickrocketWoocommerce.php:156
+msgid "Accessing your content"
+msgstr "Zugriff auf Ihre Inhalte"
+
+#: includes/class.FlickrocketWoocommerce.php:158
+msgid ""
+"You can now access your content. Most content is accessed using a player app "
+"which manages download, storage, \n"
+"\t\t\t\tand content playback. A browser-based web player may be available to "
+"stream select video products on your computer."
+msgstr ""
+"Sie können jetzt auf ihre Inhalte zugreifen. Auf die meisten Inhalte wird "
+"über Player zugegriffen. Der Player führt dabei den Download \n"
+"durch und zeigt die Inhalte an. Für Streaming-Video ist auch ein Browser "
+"basierter Web Player verfügbar."
+
+#: includes/class.FlickrocketWoocommerce.php:161
+msgid ""
+"If you are already using the player just open the player to view your "
+"purchase. Otherwise, please follow the easy \n"
+"steps below:"
+msgstr ""
+"Wenn Sie den Player bereits nutzen, können Sie ihn einfach starten um auf "
+"die neuen Inhalte zuzugreifen. Ansonsten \n"
+"folgen Sie den Anweisungen unten:"
+
+#: includes/class.FlickrocketWoocommerce.php:165
+#, php-format
+msgid ""
+"Use your store login for your order to sign-in at %s and go to the \"My "
+"Account\" page."
+msgstr ""
+"Nutzen Sie das Shop Login ihrer Bestellung für die Anmeldung bei %s und "
+"rufen Sie \"Mein Konto\" auf."
+
+#: includes/class.FlickrocketWoocommerce.php:166
+msgid "Select and install the player for your platform."
+msgstr "Wählen und installieren Sie den richtigen Player für ihre Platform."
+
+#: includes/class.FlickrocketWoocommerce.php:167
+msgid ""
+"Open the player and sign-in to the player using the following credentials:"
+msgstr ""
+"Öffnen Sie den Player und melden Sie sich mit den folgenden Zugangsdaten an:"
+
+#: includes/class.FlickrocketWoocommerce.php:175
+msgid ""
+"Note that the player password is separate from the store password. You can "
+"reset your password anytime using the \n"
+"\"Forgot password\" function. If you changed the email used for the player, "
+"the data above might not be up-to-date."
+msgstr ""
+"Bitte beachten Sie, dass das Player Passwort unabhängig vom Shop Passwort "
+"ist. Sie können das Passwort jederzeit über die \n"
+"\"Passwort vergessen\" Funktion geändert werden. Wenn die E-Mail über den "
+"Player geändert wurde, sind die Daten oben evtl. nicht aktuell."
+
+#: includes/class.FlickrocketWoocommerce.php:200
+msgid "Your browser does not support the video tag."
+msgstr "Dieser Browser unterstützt das Video Tag nicht."
+
+#: includes/class.FlickrocketWoocommerce.php:203
+msgid "Your browser does not support the audio tag."
+msgstr "Dieser Browser unterstützt das Audio Tag nicht."
+
+#: includes/class.FlickrocketWoocommerce.php:206
+msgid "Download PDF"
+msgstr "PDF Download"
+
+#: includes/class.FlickrocketWoocommerce.php:384
+msgid "Digital Content Delivery (incl. DRM) - FlickRocket"
+msgstr ""
+
+#: includes/class.FlickrocketWoocommerce.php:434
+msgid "FlickRocket Product:"
+msgstr "Flickrocket Produkt:"
+
+#: includes/class.FlickrocketWoocommerce.php:444
+msgid ""
+"Select the Flickrocket product to associate with this WooCommerce product."
+msgstr "Wählen Sie das Flickrocket Produkt für dieses WooCommerce Produkt."
+
+#: includes/class.FlickrocketWoocommerce.php:451
+msgid "Product associations for mirrored products must not be changed."
+msgstr "Produktzuweisungen für geteilte Produkte können nicht geändert werden."
+
+#: includes/class.FlickrocketWoocommerce.php:461
+msgid "-- Select Project ID --"
+msgstr "--- Produkt ID wählen ---"
+
+#: includes/class.FlickrocketWoocommerce.php:494
+#: includes/class.FlickrocketWoocommerce.php:566
+msgid "Only for video: HD quality (if available)"
+msgstr "Nur für Video: HD Qualität (wenn verfügbar)"
+
+#: includes/class.FlickrocketWoocommerce.php:495
+#: includes/class.FlickrocketWoocommerce.php:567
+msgid "Only for video: SD quality"
+msgstr "Nur für Video: SD Qualität"
+
+#: includes/class.FlickrocketWoocommerce.php:496
+#: includes/class.FlickrocketWoocommerce.php:568
+msgid "Only for non DRM audio: MP3 format"
+msgstr "Nur für Audio (ohne DRM): MP3 Format"
+
+#: includes/class.FlickrocketWoocommerce.php:497
+#: includes/class.FlickrocketWoocommerce.php:569
+msgid "Only for non DRM audio: FLAC format (if available)"
+msgstr "Nur für Audio (ohne DRM): FLAC Format"
+
+#: includes/class.FlickrocketWoocommerce.php:509
+#: includes/class.FlickrocketWoocommerce.php:580
+msgid "No license selected..."
+msgstr "Keine Lizenz ausgewählt..."
+
+#: includes/class.FlickrocketWoocommerce.php:517
+#: includes/class.FlickrocketWoocommerce.php:588
+msgid "License: "
+msgstr "Lizenz: "
+
+#: includes/class.FlickrocketWoocommerce.php:518
+#: includes/class.FlickrocketWoocommerce.php:589
+msgid "Defines the usage rights Flickrocket permits."
+msgstr "Definiert die von Flickrocket gewährten Rechte."
+
+#: includes/class.FlickrocketWoocommerce.php:529
+#: includes/class.FlickrocketWoocommerce.php:599
+msgid "Quality: "
+msgstr "Qualität: "
+
+#: includes/class.FlickrocketWoocommerce.php:530
+#: includes/class.FlickrocketWoocommerce.php:600
+msgid "Content quality (only for HD video / non DRM audio)."
+msgstr "Qualiät (nur für HD Video / Audio (ohne DRM)."
+
+#: includes/class.FlickrocketWoocommerce.php:547
+msgid "License/quality data for mirrored products must not be changed."
+msgstr ""
+"Lizenz- und Qualitätseinstellungen für geteilte Produkte können nicht "
+"geändert werden."
+
+#: includes/class.FlickrocketWoocommerce.php:620
+msgid "License/quality data for mirrored products must not be changed"
+msgstr ""
+"Lizenz- und Qualitätseinstellungen für geteilte Produkte können nicht "
+"geändert werden"
+
+#: includes/class.FlickrocketWoocommerce.php:831
+msgid "The order failed with error "
+msgstr "Die Bestellung ist fehlgeschlagen "
+
+#: includes/class.FlickrocketWoocommerce.php:836
+msgid "Error sending order to Flickrocket (WooCommerce)"
+msgstr "Fehler beim senden der Bestellung zu Flickrocket (WooCommerce)"
+
+#: includes/class.FlickrocketWoocommerce.php:872
+msgid "FlickRocket products allow DRM protected digital content access."
+msgstr ""
+"Flickrocket Produkte ermöglichen DRM geschützten Zugang zu digitalen "
+"Inhalten."
+
+#: includes/class.FlickrocketWoocommerce.php:917
+msgid "Access your content:"
+msgstr "Zugang zu ihren Inhalten:"
+
+#: includes/class.FlickrocketWoocommerce.php:934
+msgid "To access your digital content, use the following credentials:"
+msgstr ""
+"Für den Zugang zu ihren Inhalten verwenden Sie die folgenden Zugangsdaten:"
+
+#: includes/class.FlickrocketWoocommerce.php:936
+#: includes/class.FlickrocketWoocommerce.php:948
+msgid "Email for player:"
+msgstr "E-Mail für den Player:"
+
+#: includes/class.FlickrocketWoocommerce.php:937
+#: includes/class.FlickrocketWoocommerce.php:949
+msgid "Password for player:"
+msgstr "Passwort für den Player:"
+
+#: includes/class.FlickrocketWoocommerce.php:946
+msgid "To access your digital content, use the players below:"
+msgstr ""
+"Für den Zugang zu den digitalen Inhalten nutzen Sie die folgenden Player:"
+
+#: includes/class.GroupAccessNotification.php:24
+msgid "Group Access Notification"
+msgstr "Benachrichtigung über Zugang zu Inhalten"
+
+#: includes/class.GroupAccessNotification.php:25
+msgid "An email sent to a user when access to a content group is granted."
+msgstr "An den User wird eine E-Mail mit Zugangsinformationen versandt."
+
+#: includes/class.GroupAccessNotification.php:28
+msgid "Content Access Granted"
+msgstr "Zugang zu Inhalten freigeschaltet"
+
+#: includes/class.GroupAccessNotification.php:30
+#, php-format
+msgctxt "default email subject for group access notifications sent to users"
+msgid "[%s] Content Access Granted"
+msgstr "[%s] Zugang zu Inhalten freigeschaltet"
+
+#: templates/emails/group-access-notification.php:15
+#: templates/emails/plain/group-access-notication.php:23
+msgid "Hello"
+msgstr "Hallo"
+
+#: templates/emails/group-access-notification.php:18
+#: templates/emails/plain/group-access-notication.php:26
+msgid "Dear "
+msgstr "Hallo"
+
+#: templates/emails/group-access-notification.php:23
+#: templates/emails/plain/group-access-notication.php:32
+msgid "Access to content group has been granted"
+msgstr "Zugriff auf Inhalte wurde freigegeben"
+
+#: templates/emails/group-access-notification.php:27
+#: templates/emails/plain/group-access-notication.php:38
+msgid ""
+"You have been granted access to content. Please follow the steps below for "
+"access:"
+msgstr ""
+"Der Zugang zu Inhalten wurde freigegeben. Folgen Sie den Anweisungen unten "
+"für den Zugang:"
+
+#: templates/emails/group-access-notification.php:29
+#: templates/emails/plain/group-access-notication.php:40
+msgid "1. Log in to "
+msgstr "1. Melden sie sich an bei "
+
+#: templates/emails/group-access-notification.php:29
+msgid "&nbsp;using your&nbsp;"
+msgstr "&nbsp;und nutzen dazu Ihre&nbsp;"
+
+#: templates/emails/group-access-notification.php:29
+msgid "&nbsp;login data"
+msgstr "&nbsp;Zugangsdaten"
+
+#: templates/emails/group-access-notification.php:31
+#: templates/emails/plain/group-access-notication.php:42
+msgid "2. Select \"My content\" to get access to the content."
+msgstr "2. Wählen Sie \"Meine Inhalte\"."
+
+#: templates/emails/group-access-notification.php:33
+#: templates/emails/plain/group-access-notication.php:44
+msgid ""
+"To use the content on other platforms you need to follow the steps explained "
+"on the page and use the following email and password:"
+msgstr ""
+"Um die Inhalte auf anderen Plattformen zu verwenden folgen Sie den "
+"Anweisungen auf der Seite und nutzen Sie die folgenden Zugangsdaten:"
+
+#: templates/emails/group-access-notification.php:40
+#: templates/emails/plain/group-access-notication.php:49
+msgid ""
+"You can change the password at any time. Once you do this, the password "
+"above stops working."
+msgstr ""
+"Sie können das Passwort jederzeit ändern. Anschließend ist das oben "
+"aufgeführte Passwort nicht mehr verwendbar."
+
+#: templates/emails/plain/group-access-notication.php:40
+#, fuzzy
+#| msgid "using your"
+msgid " using your "
+msgstr " und nutzen dazu Ihre "
+
+#: templates/emails/plain/group-access-notication.php:40
+msgid " login data"
+msgstr " Zugangsdaten"
+
+#: woocommerce-flickrocket.php:150
+msgid "Flickrocket - Every 5 minutes"
+msgstr ""
+
+#: woocommerce-flickrocket.php:256 woocommerce-flickrocket.php:269
+#: woocommerce-flickrocket.php:312 woocommerce-flickrocket.php:326
+#: woocommerce-flickrocket.php:340
+msgid "Important:"
+msgstr "Wichtig:"
+
+#: woocommerce-flickrocket.php:257
+#, php-format
+msgid ""
+"To use \"WooCommerce Digital Content Delivery (incl. DRM) - FlickRocket\" "
+"you need to log in under %s"
+msgstr ""
+"Um \"WooCommerce Digital Content Delivery (incl. DRM) - FlickRocket\" nutzen "
+"zu können, müssen Sie sich erst anmelden: %s"
+
+#: woocommerce-flickrocket.php:258 woocommerce-flickrocket.php:450
+#: woocommerce-flickrocket.php:466
+msgid "settings"
+msgstr "Einstellungen"
+
+#: woocommerce-flickrocket.php:313
+msgid ""
+"You currently use the limited trial of \"WooCommerce Digital Content "
+"Delivery (incl. DRM) - FlickRocket\".  \n"
+"For continued functionality and full support you need to purchase the "
+msgstr ""
+"Sie nutzen im Moment die eingeschränkte Version von  \"WooCommerce Digital "
+"Content Delivery (incl. DRM) - FlickRocket\".  \n"
+"Für die unbeschränkte Version und vollen Support erwerben Sie die "
+
+#: woocommerce-flickrocket.php:327
+msgid ""
+"You are currently using a Flickrocket vanity domain for your integration. "
+"For full compatibility with all browsers you should use a custom sub domain "
+"that matches the domain of your WooCommerce store."
+msgstr ""
+"Sie verwenden im Moment eine Flickrocket Vanity Domain für die Integration. "
+"Für volle Kompatibilität mit allen Browsern sollten Sie eine eigene "
+"subdomain verwenden, welche der Domain des WooCommerce Shops entspricht."
+
+#: woocommerce-flickrocket.php:341
+msgid ""
+"You are currently not using a Flickrocket plugin theme. You need to obtain "
+"and select a Flickrocket plugin theme for embedding in Wordpress/WooCommerce."
+msgstr ""
+"Sie verwenden im Moment keine Flickrocket Plugin Theme. Für die Integration "
+"in Wordpress/WooCommerce muss ein Flickrocket Plugin Theme (aus dem Theme "
+"Store) genutzt werden."
+
+#: woocommerce-flickrocket.php:448 woocommerce-flickrocket.php:462
+msgid "Manage Digital Content"
+msgstr "Digitale Inhalte verwalten"
+
+#: woocommerce-flickrocket.php:449
+msgid "Warning:"
+msgstr "Warnung:"
+
+#: woocommerce-flickrocket.php:449
+#, php-format
+msgid ""
+"You currently don't have valid credentials for \"WooCommerce Digital Content "
+"Delivery (incl. DRM) - FlickRocket\". First you \n"
+"need to log in under %s"
+msgstr ""
+"Die Zugangsdaten für \"WooCommerce Digital Content Delivery (incl. DRM) - "
+"FlickRocket\" sind nicht gültig. Melden Sie sich \n"
+"neu an: %s"
+
+#: woocommerce-flickrocket.php:463
+#, php-format
+msgid ""
+"Each digital content product needs to be uploaded to Flickrocket for "
+"preparation (transcoding, protection, content delivery). Depending on \n"
+"your %s these products are automatically synced to WooCommerce and "
+"optionally published. \n"
+"Alternatively you can sync them using the section below or create the "
+"products manually as part of the Woocommerce product setup."
+msgstr ""
+"Digitale Produkte müssen für die Aufbereitung (Trancoding in viele Formate, "
+"Aufbringen des Schutzes, CDN) zu Flickrocket hochgeladen werden. \n"
+"Abhängig von Ihren %s werden diese Produkte automatisch in WooCommerce "
+"angelegt und veröffentlicht. \n"
+"Alternativ können die Produkte über den Bereich unten gesynct oder manuell "
+"als WooCommerce Produkte angelegt werden."
+
+#: woocommerce-flickrocket.php:470
+msgid "Upload new products or modify existing"
+msgstr "Neue Produkte hochladen oder vorhandene Produkte anpassen"
+
+#: woocommerce-flickrocket.php:471
+msgid ""
+"Use this section upload new content to Flickrocket for processing or "
+"exchange content of existing products. Content processing takes some time \n"
+"in addition to the upload. You will be notified by email when the content "
+"processing is finished."
+msgstr ""
+"Nutzen Sie diesen Bereich für den Upload von neuen Inhalten zu Flickrocket "
+"oder um vorhandene Inhalte anzupassen. Die Verarbeitung der Inhalte kann \n"
+"nach dem Upload noch einige Zeit dauern. Wenn der Vorgang abgeschlossen ist, "
+"werden Sie per E-Mail informiert."
+
+#: woocommerce-flickrocket.php:473
+msgid "Product Upload Wizard"
+msgstr "Produktupload"
+
+#: woocommerce-flickrocket.php:474
+#, php-format
+msgid ""
+"Alternatively you can use the FlickRocket Content tools for desktop ( %1$s / "
+"%2$s )"
+msgstr ""
+"Alternativ können die Flickrocket Content Tools für Desktop genutzt werden "
+"( %1$s / %2$s )"
+
+#: woocommerce-flickrocket.php:479
+msgid "Sync existing products from Flickrocket to Woocommerce"
+msgstr "Produkte in Flickrocket nach WooCommerce synchonisieren"
+
+#: woocommerce-flickrocket.php:484
+msgid ""
+"Use this function to import products from your Flickrocket account into "
+"WooCommerce. \n"
+"During the import you must not navigate away from this page."
+msgstr ""
+"Verwenden Sie diese Funktion um vorhandene Produkte aus Flickrocket nach "
+"WooCommerce zu importieren.\n"
+"Während des Imports dürfen Sie diese Seite nicht verlassen."
+
+#: woocommerce-flickrocket.php:488
+#, php-format
+msgid "Count of products available in your Flickrocket account: %s"
+msgstr "Anzahl Produkte in Flickrocket: %s"
+
+#: woocommerce-flickrocket.php:490
+msgid "Sync products now"
+msgstr "Produkte synchronisieren"
+
+#: woocommerce-flickrocket.php:502
+msgid "Getting product information"
+msgstr "Hole Produktinformationen"
+
+#: woocommerce-flickrocket.php:506
+msgid "Toggle selection"
+msgstr "Auswahl umkehren"
+
+#: woocommerce-flickrocket.php:512
+msgid "Sync"
+msgstr ""
+
+#: woocommerce-flickrocket.php:513
+msgid "Product ID"
+msgstr "Produkt ID"
+
+#: woocommerce-flickrocket.php:514
+msgid "Name"
+msgstr ""
+
+#: woocommerce-flickrocket.php:515
+msgid "Type"
+msgstr "Typ"
+
+#: woocommerce-flickrocket.php:516
+msgid "Exists in Woo..."
+msgstr "In Woo vorhanden..."
+
+#: woocommerce-flickrocket.php:530 woocommerce-flickrocket.php:531
+msgid "Content Marketplace"
+msgstr "Marktplatz für Inhalte"
